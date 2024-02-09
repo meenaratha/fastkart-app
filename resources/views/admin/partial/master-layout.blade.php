@@ -15,6 +15,7 @@
     <link rel="icon" href="{{asset('admin/assets/images/favicon.png" type="image/x-icon')}}">
     <link rel="shortcut icon" href="{{asset('admin/assets/images/favicon.png" type="image/x-icon')}}">
     <title>Fastkart - Dashboard</title>
+    <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!-- Google font-->
     <link
@@ -56,6 +57,10 @@
 
     <!-- App css -->
     <link rel="stylesheet" type="text/css" href="{{asset('admin/assets/css/style.css')}}">
+    <link rel="stylesheet" href="{{ asset('admin/product/product.css') }}">
+
+
+
 </head>
 
 <body>
@@ -107,13 +112,18 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     <div class="button-box">
                         <button type="button" class="btn btn--no" data-bs-dismiss="modal">No</button>
-                        <button type="button" class="btn  btn--yes btn-primary">Yes</button>
+                        <button type="button" class="btn  btn--yes btn-primary" id="logout_btn">Yes</button>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- Modal End -->
+<script>
+    document.getElementById('logout_btn').addEventListener('click', function() {
+  window.location.href = "{{ route('logout') }}";
+});
+</script>
 
     <!-- latest js -->
     <script src="{{asset('admin/assets/js/jquery-3.6.0.min.js')}}"></script>
@@ -141,11 +151,11 @@
     <script src="{{asset('admin/assets/js/notify/index.js')}}"></script>
 
     <!-- Apexchar js -->
-    <script src="{{asset('admin/assets/js/chart/apex-chart/apex-chart1.js')}}"></script>
+    {{-- <script src="{{asset('admin/assets/js/chart/apex-chart/apex-chart1.js')}}"></script>
     <script src="{{asset('admin/assets/js/chart/apex-chart/moment.min.js')}}"></script>
     <script src="{{asset('admin/assets/js/chart/apex-chart/apex-chart.js')}}"></script>
     <script src="{{asset('admin/assets/js/chart/apex-chart/stock-prices.js')}}"></script>
-    <script src="{{asset('admin/assets/js/chart/apex-chart/chart-custom1.js')}}"></script>
+    <script src="{{asset('admin/assets/js/chart/apex-chart/chart-custom1.js')}}"></script> --}}
 
 
     <!-- slick slider js -->
@@ -163,6 +173,8 @@
 
     <!-- Theme js -->
     <script src="{{asset('admin/assets/js/script.js')}}"></script>
+    <script src="{{asset('admin/product/product.js')}}"></script>
+
 </body>
 
 

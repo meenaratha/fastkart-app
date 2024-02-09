@@ -17,7 +17,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/1.png') }}" class="img-fluid" alt="">
                                 </a>
 
@@ -53,7 +53,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Bell pepper</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -88,7 +88,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/3.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -124,7 +124,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Potato</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -162,7 +162,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/5.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -198,7 +198,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Baby Chili</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -232,7 +232,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/6.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -268,7 +268,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Broccoli</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -306,7 +306,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/7.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -342,7 +342,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Peru</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -376,7 +376,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/9.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -412,7 +412,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Avacado</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -446,7 +446,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/11.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -482,7 +482,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Cucumber</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -520,7 +520,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/12.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -556,7 +556,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Beetroot</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -590,7 +590,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/13.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -626,7 +626,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Strawberry</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -660,7 +660,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/15.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -696,7 +696,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Corn</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -734,7 +734,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/17.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -770,7 +770,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Cabbage</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -808,7 +808,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/18.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -844,7 +844,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Ginger</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -882,7 +882,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/1.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -918,7 +918,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Eggplant</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -953,7 +953,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/2.png" class="img-fluid" alt="">
                                 </a>
 
@@ -989,7 +989,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Eggplant</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1024,7 +1024,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/3.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1060,7 +1060,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Onion</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1095,7 +1095,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/4.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1131,7 +1131,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Potato</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1166,7 +1166,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/5.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1202,7 +1202,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Baby Chili</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1237,7 +1237,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/6.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1273,7 +1273,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Broccoli</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1308,7 +1308,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/10.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1344,7 +1344,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Pea</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1379,7 +1379,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/11.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1415,7 +1415,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Cucumber</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1450,7 +1450,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/17.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1486,7 +1486,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Cabbage</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1521,7 +1521,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/18.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1557,7 +1557,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Ginger</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1595,7 +1595,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/8.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -1631,7 +1631,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Apple</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1666,7 +1666,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/14.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1702,7 +1702,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Passion</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1737,7 +1737,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/16.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1773,7 +1773,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Blackberry</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1808,7 +1808,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/7.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1844,7 +1844,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Peru</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1879,7 +1879,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/9.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1915,7 +1915,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Apple</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -1950,7 +1950,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/13.png" class="img-fluid" alt="">
                                 </a>
 
@@ -1986,7 +1986,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Strawberry</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2021,7 +2021,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/12.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2057,7 +2057,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Bell pepper</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2095,7 +2095,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/1.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -2131,7 +2131,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Eggplant</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2166,7 +2166,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/2.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2202,7 +2202,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Eggplant</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2237,7 +2237,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/3.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2273,7 +2273,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Onion</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2308,7 +2308,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/4.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2344,7 +2344,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Potato</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2379,7 +2379,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/5.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2415,7 +2415,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Baby Chili</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2450,7 +2450,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/6.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2486,7 +2486,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Broccoli</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2521,7 +2521,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/10.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2557,7 +2557,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Pea</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2592,7 +2592,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/11.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2628,7 +2628,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Cucumber</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2663,7 +2663,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/17.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2699,7 +2699,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Cabbage</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2734,7 +2734,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/18.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2770,7 +2770,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Ginger</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2808,7 +2808,7 @@
                                         <i class="fa-regular fa-heart"></i>                                    </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="{{ asset('website/assets/images/veg-3/cate1/1.png')}}" class="img-fluid" alt="">
                                 </a>
 
@@ -2844,7 +2844,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Eggplant</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2879,7 +2879,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/2.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2915,7 +2915,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Eggplant</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -2950,7 +2950,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/3.png" class="img-fluid" alt="">
                                 </a>
 
@@ -2986,7 +2986,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Onion</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -3021,7 +3021,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/4.png" class="img-fluid" alt="">
                                 </a>
 
@@ -3057,7 +3057,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Potato</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -3092,7 +3092,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/5.png" class="img-fluid" alt="">
                                 </a>
 
@@ -3128,7 +3128,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Baby Chili</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -3163,7 +3163,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/6.png" class="img-fluid" alt="">
                                 </a>
 
@@ -3199,7 +3199,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Broccoli</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -3234,7 +3234,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/10.png" class="img-fluid" alt="">
                                 </a>
 
@@ -3270,7 +3270,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Pea</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -3305,7 +3305,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/11.png" class="img-fluid" alt="">
                                 </a>
 
@@ -3341,7 +3341,7 @@
                                         <i data-feather="star" class="fill"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Cucumber</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -3376,7 +3376,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/17.png" class="img-fluid" alt="">
                                 </a>
 
@@ -3412,7 +3412,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Cabbage</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>
@@ -3447,7 +3447,7 @@
                                     </button>
                                 </div>
 
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <img src="../assets/images/veg-3/cate1/18.png" class="img-fluid" alt="">
                                 </a>
 
@@ -3483,7 +3483,7 @@
                                         <i data-feather="star"></i>
                                     </li>
                                 </ul>
-                                <a href="product-left-thumbnail.html">
+                                <a href="{{ route('product-details') }}">
                                     <h5 class="name">Ginger</h5>
                                 </a>
                                 <h5 class="price theme-color">$70.21<del>$65.25</del></h5>

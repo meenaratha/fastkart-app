@@ -90,7 +90,7 @@
                         </a>
                         <ul class="sidebar-submenu">
                             <li>
-                                <a href="all-users.html">All users</a>
+                                <a href="{{ route('user-list') }}">All users</a>
                             </li>
                             <li>
                                 <a href="add-new-user.html">Add new user</a>

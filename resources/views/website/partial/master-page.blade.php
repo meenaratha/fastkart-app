@@ -269,7 +269,7 @@
     <!-- Bg overlay End -->
 
     <!-- latest jquery-->
-    <script src="{{ asset('website/assets/js/jquery-3.6.0.min.js')}}"></script>
+    {{-- <script src="{{ asset('website/assets/js/jquery-3.6.0.min.js')}}"></script> --}}
 
     <!-- jquery ui-->
     <script src="{{ asset('website/assets/js/jquery-ui.min.js')}}"></script>
@@ -295,7 +295,7 @@
     <script src="{{ asset('website/assets/js/auto-height.js')}}"></script>
 
     <!-- Timer Js -->
-    <script src="{{ asset('website/assets/js/timer1.js')}}"></script>
+    {{-- <script src="{{ asset('website/assets/js/timer1.js')}}"></script> --}}
 
     <!-- Fly Cart Js -->
     <script src="{{ asset('website/assets/js/fly-cart.js')}}"></script>
@@ -308,10 +308,10 @@
     <script src="{{ asset('website/assets/js/custom-wow.js')}}"></script>
 
     <!-- script js -->
-    <script src="{{ asset('website/assets/js/script.js')}}"></script>
+    {{-- <script src="{{ asset('website/assets/js/script.js')}}"></script> --}}
 
     <!-- thme setting js -->
-    <script src="{{ asset('website/assets/js/theme-setting.js')}}"></script>
+    {{-- <script src="{{ asset('website/assets/js/theme-setting.js')}}"></script> --}}
 </body>
 
 
